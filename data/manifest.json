@@ -1,0 +1,220 @@
+{
+  "Pengaturan": {
+    "file": "data/Pengaturan.json",
+    "rows": 11,
+    "columns": [
+      "Kunci",
+      "Nilai",
+      "Keterangan"
+    ]
+  },
+  "PanduanOSS": {
+    "file": "data/PanduanOSS.json",
+    "rows": 0,
+    "columns": [
+      "ID",
+      "Judul",
+      "Kategori",
+      "Ringkasan",
+      "URL",
+      "File_URL",
+      "Tanggal_Pembaruan",
+      "Status"
+    ]
+  },
+  "Statistik": {
+    "file": "data/Statistik.json",
+    "rows": 0,
+    "columns": [
+      "ID",
+      "Indikator",
+      "Periode",
+      "Nilai",
+      "Satuan",
+      "Sumber",
+      "Tanggal_Pembaruan",
+      "Status"
+    ]
+  },
+  "Integritas": {
+    "file": "data/Integritas.json",
+    "rows": 0,
+    "columns": [
+      "ID",
+      "Judul",
+      "Deskripsi",
+      "URL",
+      "Kontak",
+      "Tanggal_Pembaruan",
+      "Status"
+    ]
+  },
+  "SKM": {
+    "file": "data/SKM.json",
+    "rows": 9,
+    "columns": [
+      "ID",
+      "Periode",
+      "Jumlah_Responden",
+      "Nilai_IKM",
+      "Mutu_Pelayanan",
+      "Ringkasan",
+      "Tindak_Lanjut",
+      "File_URL",
+      "Tanggal_Pembaruan",
+      "Status"
+    ]
+  },
+  "Pengaduan": {
+    "file": "data/Pengaduan.json",
+    "rows": 0,
+    "columns": [
+      "ID",
+      "Nama_Kanal",
+      "Deskripsi",
+      "URL",
+      "Kontak",
+      "SLA_Informasi",
+      "Tanggal_Pembaruan",
+      "Status"
+    ]
+  },
+  "MediaSosial": {
+    "file": "data/MediaSosial.json",
+    "rows": 5,
+    "columns": [
+      "ID",
+      "Nama",
+      "Deskripsi",
+      "URL",
+      "Logo_URL",
+      "Status",
+      "Tanggal_Pembaruan"
+    ]
+  },
+  "LayananDigital": {
+    "file": "data/LayananDigital.json",
+    "rows": 4,
+    "columns": [
+      "ID",
+      "Nama",
+      "Deskripsi",
+      "URL",
+      "Logo_URL",
+      "Status",
+      "Tanggal_Pembaruan"
+    ]
+  },
+  "Berita": {
+    "file": "data/Berita.json",
+    "rows": 456,
+    "columns": [
+      "ID",
+      "Jenis",
+      "Tanggal",
+      "Judul",
+      "Ringkasan",
+      "Isi",
+      "Gambar_URL",
+      "URL_Detail",
+      "Status",
+      "Tanggal_Pembaruan"
+    ]
+  },
+  "Layanan": {
+    "file": "data/Layanan.json",
+    "rows": 56,
+    "columns": [
+      "ID",
+      "Nama_Layanan",
+      "Kategori",
+      "Deskripsi",
+      "URL",
+      "Ikon",
+      "Status",
+      "Tanggal_Pembaruan"
+    ]
+  },
+  "Dokumen": {
+    "file": "data/Dokumen.json",
+    "rows": 1,
+    "columns": [
+      "ID",
+      "Nama_Dokumen",
+      "Kategori",
+      "Tanggal",
+      "File_URL",
+      "Thumbnail_URL",
+      "Status",
+      "Tanggal_Pembaruan"
+    ]
+  },
+  "FAQ": {
+    "file": "data/FAQ.json",
+    "rows": 26,
+    "columns": [
+      "ID",
+      "Pertanyaan",
+      "Jawaban",
+      "Status",
+      "Kategori",
+      "Tanggal_Pembaruan"
+    ]
+  },
+  "Kontak": {
+    "file": "data/Kontak.json",
+    "rows": 1,
+    "columns": [
+      "ID",
+      "Nama",
+      "Jabatan",
+      "Alamat",
+      "Telepon",
+      "Email",
+      "Jam_Layanan",
+      "Latitude",
+      "Longitude",
+      "Status",
+      "Tanggal_Pembaruan"
+    ]
+  },
+  "StandarPelayanan": {
+    "file": "data/StandarPelayanan.json",
+    "rows": 56,
+    "columns": [
+      "ID",
+      "Nama_Standar",
+      "Nama_Layanan",
+      "Ringkasan",
+      "Persyaratan",
+      "Sistem_Mekanisme_Prosedur",
+      "Jangka_Waktu",
+      "Biaya_Tarif",
+      "Produk_Pelayanan",
+      "Penanganan_Pengaduan",
+      "Dasar_Hukum",
+      "File_URL",
+      "Status",
+      "Sarana_Prasarana",
+      "Kompetensi_Pelaksana",
+      "Pengawasan_Internal",
+      "Jumlah_Pelaksana",
+      "Jaminan_Pelayanan",
+      "Jaminan_Keamanan_Keselamatan",
+      "Evaluasi_Kinerja",
+      "Tanggal_Pembaruan"
+    ]
+  },
+  "SOP": {
+    "file": "data/SOP.json",
+    "rows": 56,
+    "columns": [
+      "ID",
+      "Nama_SOP",
+      "Jenis_Layanan",
+      "File_URL",
+      "Status",
+      "Tanggal_Pembaruan"
+    ]
+  }
+}

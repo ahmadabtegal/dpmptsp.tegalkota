@@ -1,0 +1,47 @@
+[
+  {
+    "ID": "SOSMED-1",
+    "Nama": "Whatsapp DPMPTSP",
+    "Deskripsi": "",
+    "URL": "https://wa.me/08112970114",
+    "Logo_URL": "https://drive.google.com/file/d/1_vIx8AUTtydHFQ-w-XyCJqenuQURy-EN/view?usp=drive_link",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOSMED-2",
+    "Nama": "Instagram DPMPTSP",
+    "Deskripsi": "",
+    "URL": "https://www.instagram.com/dpmptsp.tegalkota/",
+    "Logo_URL": "https://drive.google.com/file/d/1Ld1UoeqtipbOK9tCUJ8ZhnpXZjUIE4tQ/view?usp=drive_link",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOSMED-3",
+    "Nama": "Facebook DPMPTSP",
+    "Deskripsi": "",
+    "URL": "https://www.facebook.com/dpmptsp.tegalkota",
+    "Logo_URL": "https://drive.google.com/file/d/1pxBCEzQlYLzywSfdXKORwaEmBjL_WaiD/view?usp=drive_link",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOSMED-4",
+    "Nama": "Youtube DPMPTSP",
+    "Deskripsi": "",
+    "URL": "https://www.youtube.com/@dpmptsp.tegalkota",
+    "Logo_URL": "https://drive.google.com/file/d/1Yux7Z1I8K2kgTUoASR-7Jw8TVY_Cgc5B/view?usp=sharing",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOSMED-5",
+    "Nama": "Tiktok DPMPTSP",
+    "Deskripsi": "",
+    "URL": "https://www.tiktok.com/@dpmptsp.kotategal",
+    "Logo_URL": "https://drive.google.com/file/d/1nEKyBwxwuIQqEWxp367cn5qFf18QlX0z/view?usp=drive_link",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  }
+]

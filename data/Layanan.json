@@ -1,0 +1,562 @@
+[
+  {
+    "ID": "LYN-001",
+    "Nama_Layanan": "Nomor Induk Berusaha (NIB) Risiko Rendah",
+    "Kategori": "Perizinan Berusaha Berbasis Risiko",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-002",
+    "Nama_Layanan": "Nomor Induk Berusaha (NIB) dan Sertifikat Standar Risiko Menengah Rendah",
+    "Kategori": "Perizinan Berusaha Berbasis Risiko",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-003",
+    "Nama_Layanan": "Nomor Induk Berusaha (NIB) dan Sertifikat Standar Risiko Menengah Tinggi",
+    "Kategori": "Perizinan Berusaha Berbasis Risiko",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-004",
+    "Nama_Layanan": "Nomor Induk Berusaha (NIB) Risiko Tinggi",
+    "Kategori": "Perizinan Berusaha Berbasis Risiko",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-005",
+    "Nama_Layanan": "Persetujuan Sertifikat Standar Risiko Menengah Tinggi",
+    "Kategori": "Perizinan Berusaha Berbasis Risiko",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-006",
+    "Nama_Layanan": "Persetujuan Izin Risiko Tinggi",
+    "Kategori": "Perizinan Berusaha Berbasis Risiko",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-007",
+    "Nama_Layanan": "Persetujuan Perizinan Berusaha Untuk Menunjang Kegiatan Usaha (PB-UMKU)",
+    "Kategori": "Perizinan Berusaha Berbasis Risiko",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-008",
+    "Nama_Layanan": "Izin Pemakaian Kios Milik Pemerintah Kota Tegal",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-009",
+    "Nama_Layanan": "Izin Pemakaian Tanah Penguasaan Pemerintah Kota Tegal",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-010",
+    "Nama_Layanan": "Izin Reklame",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-011",
+    "Nama_Layanan": "Izin Kerja Perekam Medis",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-012",
+    "Nama_Layanan": "Izin Kerja Ortotis Prostetis",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-013",
+    "Nama_Layanan": "Izin Kerja Radiografer",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-014",
+    "Nama_Layanan": "Izin Kerja Refraksionis Optisien",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-015",
+    "Nama_Layanan": "Izin Kerja Tenaga Sanitarian",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-016",
+    "Nama_Layanan": "Izin Kerja Teknisi Transfusi Darah",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-017",
+    "Nama_Layanan": "Izin Praktik Ahli Teknologi Laboratorium Medik",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-018",
+    "Nama_Layanan": "Izin Praktik Dokter",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-019",
+    "Nama_Layanan": "Izin Praktik Apoteker",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-020",
+    "Nama_Layanan": "Izin Praktik Asisten Apoteker",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-021",
+    "Nama_Layanan": "Izin Praktik Bidan",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-022",
+    "Nama_Layanan": "Izin Praktik Bidan Mandiri",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-023",
+    "Nama_Layanan": "Izin Praktik Fisioterapi",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-024",
+    "Nama_Layanan": "Izin Praktik Okupasi Terapis",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-025",
+    "Nama_Layanan": "Izin Praktik Penata Anestesi",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-026",
+    "Nama_Layanan": "Izin Praktik Perawat",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-027",
+    "Nama_Layanan": "Izin Praktik Perawat Gigi",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-028",
+    "Nama_Layanan": "Izin Praktik Psikolog Klinis",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-029",
+    "Nama_Layanan": "Izin Praktik Teknik Elektromedis",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-030",
+    "Nama_Layanan": "Izin Praktik Teknisi Kardiovaskuler",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-031",
+    "Nama_Layanan": "Izin Praktik Tenaga Gizi",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-032",
+    "Nama_Layanan": "Izin Praktik Tenaga Kesehatan Tradisional",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-033",
+    "Nama_Layanan": "Izin Praktik Terapis Wicara",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-034",
+    "Nama_Layanan": "Izin Trayek Angkutan Umum",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-035",
+    "Nama_Layanan": "Izin Operasi Angkutan Umum",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-036",
+    "Nama_Layanan": "Izin Kelompok Bermain (KB)",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-037",
+    "Nama_Layanan": "Izin Lembaga Kursus dan Pelatihan (LKP)",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-038",
+    "Nama_Layanan": "Izin Pendidikan Anak Usia Dini (PAUD)",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-039",
+    "Nama_Layanan": "Izin Pendirian Sekolah Dasar (SD) Swasta",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-040",
+    "Nama_Layanan": "Izin Pendirian Sekolah Menengah Pertama (SMP) Swasta",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-041",
+    "Nama_Layanan": "Izin Pos PAUD",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-042",
+    "Nama_Layanan": "Izin Pusat Kegiatan Belajar Masyarakat (PKBM)",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-043",
+    "Nama_Layanan": "Izin Taman Baca Masyarakat (TBM)",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-044",
+    "Nama_Layanan": "Izin Taman Kanak-Kanak (TK)",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-045",
+    "Nama_Layanan": "Izin Tempat Penitipan Anak (TPA)",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-046",
+    "Nama_Layanan": "Izin Insidentil Angkutan Umum",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-047",
+    "Nama_Layanan": "Tanda Daftar Bursa Kerja Khusus (BKK)",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-048",
+    "Nama_Layanan": "Izin Pemakaman di Tanah Makam Penguasaan Pemerintah Kota Tegal",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-049",
+    "Nama_Layanan": "Izin Inseminator",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-050",
+    "Nama_Layanan": "Persetujuan Bangunan Gedung (PBG)",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-051",
+    "Nama_Layanan": "Kesesuaian Kegiatan Pemanfaatan Ruang (KKPR)",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-052",
+    "Nama_Layanan": "Penetapan Lokasi",
+    "Kategori": "Perizinan Non Berusaha",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-053",
+    "Nama_Layanan": "Kartu Pengawasan dan Kartu Jam Perjalanan Angkutan Perkotaan",
+    "Kategori": "Nonperizinan",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-054",
+    "Nama_Layanan": "Rekomendasi Keramaian",
+    "Kategori": "Nonperizinan",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-055",
+    "Nama_Layanan": "Rekomendasi Pemakaian Alun-Alun",
+    "Kategori": "Nonperizinan",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LYN-056",
+    "Nama_Layanan": "Surat Keterangan Penelitian",
+    "Kategori": "Nonperizinan",
+    "Deskripsi": "",
+    "URL": "",
+    "Ikon": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  }
+]

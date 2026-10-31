@@ -1,0 +1,38 @@
+[
+  {
+    "ID": "LD-1",
+    "Nama": "Online Single Submission (OSS)",
+    "Deskripsi": "Layanan Perizinan Berusaha",
+    "URL": "https://oss.go.id/",
+    "Logo_URL": "https://drive.google.com/file/d/1Kwhx2_krdbSe9tDd-bjRkKA27cxfHf18/view?usp=sharing",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LD-2",
+    "Nama": "MPPD Nasional",
+    "Deskripsi": "Layanan Surat izin Praktik Nakes dan Named",
+    "URL": "https://play.google.com/store/apps/details?id=com.mppdigital.app&hl=id",
+    "Logo_URL": "https://drive.google.com/file/d/1ogeKXYX1zcfu117upNWWzPjfB5Pl-3NB/view?usp=drive_link",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LD-3",
+    "Nama": "SIMBG",
+    "Deskripsi": "Layanan Persetujuan Bangunan Gedung (PBG)",
+    "URL": "https://simbg.pu.go.id/",
+    "Logo_URL": "https://drive.google.com/file/d/1EOufyPr722bW7BA9ugzpQ2-qeML4mVSy/view?usp=drive_link",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "LD-4",
+    "Nama": "Sicantik Cloud",
+    "Deskripsi": "Layanan Perizinan Non Berusaha dan Nonperizinan",
+    "URL": "https://sicantik.go.id/sign-in",
+    "Logo_URL": "https://drive.google.com/file/d/15e1P1Bot9JPbIBTRgEkcG6ibHuzLshji/view?usp=drive_link",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  }
+]

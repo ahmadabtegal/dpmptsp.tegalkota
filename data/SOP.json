@@ -1,0 +1,450 @@
+[
+  {
+    "ID": "SOP-1",
+    "Nama_SOP": "Nomor Induk Berusaha (NIB) Risiko Rendah",
+    "Jenis_Layanan": "Perizinan Berusaha Berbasis Risiko",
+    "File_URL": "https://drive.google.com/file/d/1iUbozEeiHKmaTK7WH90N_pR1e83rz4gu/view?usp=drive_link",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-2",
+    "Nama_SOP": "Nomor Induk Berusaha (NIB) dan Sertifikat Standar Risiko Menengah Rendah",
+    "Jenis_Layanan": "Perizinan Berusaha Berbasis Risiko",
+    "File_URL": "https://drive.google.com/file/d/1TDDa6Q2roJNuW752u212bDTsh1g1Wjip/view?usp=drive_link",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-3",
+    "Nama_SOP": "Nomor Induk Berusaha (NIB) dan Sertifikat Standar Risiko Menengah Tinggi",
+    "Jenis_Layanan": "Perizinan Berusaha Berbasis Risiko",
+    "File_URL": "https://drive.google.com/file/d/1Hk8pi8gecTl5Ado0OZl_uV5U5r4_SJuw/view?usp=drive_link",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-4",
+    "Nama_SOP": "Nomor Induk Berusaha (NIB) Risiko Tinggi",
+    "Jenis_Layanan": "Perizinan Berusaha Berbasis Risiko",
+    "File_URL": "https://drive.google.com/file/d/1GNAIqQluCLAmLydNxwCHJk27OmCYTJ9p/view?usp=drive_link",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-5",
+    "Nama_SOP": "Persetujuan Sertifikat Standar Risiko Menengah Tinggi",
+    "Jenis_Layanan": "Perizinan Berusaha Berbasis Risiko",
+    "File_URL": "https://drive.google.com/file/d/1FZiqWPD8-eejQcJlzqQfscMcOkxprkr4/view?usp=drive_link",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-6",
+    "Nama_SOP": "Persetujuan Izin Risiko Tinggi",
+    "Jenis_Layanan": "Perizinan Berusaha Berbasis Risiko",
+    "File_URL": "https://drive.google.com/file/d/1iM2HsF40FmEFfEicOHPPse6hz62ZvM4B/view?usp=drive_link",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-7",
+    "Nama_SOP": "Persetujuan Perizinan Berusaha Untuk Menunjang Kegiatan Usaha (PB-UMKU)",
+    "Jenis_Layanan": "Perizinan Berusaha Berbasis Risiko",
+    "File_URL": "https://drive.google.com/file/d/1QdCw65PF2zPHCU_034NBBENYJPyu_HMo/view?usp=drive_link",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-8",
+    "Nama_SOP": "Izin Pemakaian Kios Milik Pemerintah Kota Tegal",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-9",
+    "Nama_SOP": "Izin Pemakaian Tanah Penguasaan Pemerintah Kota Tegal",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-10",
+    "Nama_SOP": "Izin Reklame",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-11",
+    "Nama_SOP": "Izin Kerja Perekam Medis",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-12",
+    "Nama_SOP": "Izin Kerja Ortotis Prostetis",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-13",
+    "Nama_SOP": "Izin Kerja Radiografer",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-14",
+    "Nama_SOP": "Izin Kerja Refraksionis Optisien",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-15",
+    "Nama_SOP": "Izin Kerja Tenaga Sanitarian",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-16",
+    "Nama_SOP": "Izin Kerja Teknisi Transfusi Darah",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-17",
+    "Nama_SOP": "Izin Praktik Ahli Teknologi Laboratorium Medik",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-18",
+    "Nama_SOP": "Izin Praktik Dokter",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-19",
+    "Nama_SOP": "Izin Praktik Apoteker",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-20",
+    "Nama_SOP": "Izin Praktik Asisten Apoteker",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-21",
+    "Nama_SOP": "Izin Praktik Bidan",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-22",
+    "Nama_SOP": "Izin Praktik Bidan Mandiri",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-23",
+    "Nama_SOP": "Izin Praktik Fisioterapi",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-24",
+    "Nama_SOP": "Izin Praktik Okupasi Terapis",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-25",
+    "Nama_SOP": "Izin Praktik Penata Anestesi",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-26",
+    "Nama_SOP": "Izin Praktik Perawat",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-27",
+    "Nama_SOP": "Izin Praktik Perawat Gigi",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-28",
+    "Nama_SOP": "Izin Praktik Psikolog Klinis",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-29",
+    "Nama_SOP": "Izin Praktik Teknik Elektromedis",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-30",
+    "Nama_SOP": "Izin Praktik Teknisi Kardiovaskuler",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-31",
+    "Nama_SOP": "Izin Praktik Tenaga Gizi",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-32",
+    "Nama_SOP": "Izin Praktik Tenaga Kesehatan Tradisional",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-33",
+    "Nama_SOP": "Izin Praktik Terapis Wicara",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-34",
+    "Nama_SOP": "Izin Trayek Angkutan Umum",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-35",
+    "Nama_SOP": "Izin Operasi Angkutan Umum",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-36",
+    "Nama_SOP": "Izin Kelompok Bermain (KB)",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-37",
+    "Nama_SOP": "Izin Lembaga Kursus dan Pelatihan (LKP)",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-38",
+    "Nama_SOP": "Izin Pendidikan Anak Usia Dini (PAUD)",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-39",
+    "Nama_SOP": "Izin Pendirian Sekolah Dasar (SD) Swasta",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-40",
+    "Nama_SOP": "Izin Pendirian Sekolah Menengah Pertama (SMP) Swasta",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-41",
+    "Nama_SOP": "Izin Pos PAUD",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-42",
+    "Nama_SOP": "Izin Pusat Kegiatan Belajar Masyarakat (PKBM)",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-43",
+    "Nama_SOP": "Izin Taman Baca Masyarakat (TBM)",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-44",
+    "Nama_SOP": "Izin Taman Kanak-Kanak (TK)",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-45",
+    "Nama_SOP": "Izin Tempat Penitipan Anak (TPA)",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-46",
+    "Nama_SOP": "Izin Insidentil Angkutan Umum",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-47",
+    "Nama_SOP": "Tanda Daftar Bursa Kerja Khusus (BKK)",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-48",
+    "Nama_SOP": "Izin Pemakaman di Tanah Makam Penguasaan Pemerintah Kota Tegal",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-49",
+    "Nama_SOP": "Izin Inseminator",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-50",
+    "Nama_SOP": "Persetujuan Bangunan Gedung (PBG)",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-51",
+    "Nama_SOP": "Kesesuaian Kegiatan Pemanfaatan Ruang (KKPR)",
+    "Jenis_Layanan": "Perizinan Non Berusaha",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-52",
+    "Nama_SOP": "Penetapan Lokasi",
+    "Jenis_Layanan": "Nonperizinan",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-53",
+    "Nama_SOP": "Kartu Pengawasan dan Kartu Jam Perjalanan Angkutan Perkotaan",
+    "Jenis_Layanan": "Nonperizinan",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-54",
+    "Nama_SOP": "Rekomendasi Keramaian",
+    "Jenis_Layanan": "Nonperizinan",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-55",
+    "Nama_SOP": "Rekomendasi Pemakaian Alun-Alun",
+    "Jenis_Layanan": "Nonperizinan",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "SOP-56",
+    "Nama_SOP": "Surat Keterangan Penelitian",
+    "Jenis_Layanan": "Nonperizinan",
+    "File_URL": "",
+    "Status": "AKTIF",
+    "Tanggal_Pembaruan": ""
+  }
+]

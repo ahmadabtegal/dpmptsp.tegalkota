@@ -1,0 +1,210 @@
+[
+  {
+    "ID": "FAQ-1",
+    "Pertanyaan": "Apa itu OSS?",
+    "Jawaban": "OSS (Online Single Submission) adalah sistem perizinan berusaha terintegrasi secara elektronik yang digunakan pelaku usaha untuk mengajukan dan mengelola perizinan berusaha. Akses melalui https://oss.go.id/.",
+    "Status": "AKTIF",
+    "Kategori": "Informasi Dasar",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "FAQ-2",
+    "Pertanyaan": "Apa itu NIB?",
+    "Jawaban": "NIB (Nomor Induk Berusaha) adalah identitas resmi pelaku usaha yang diterbitkan melalui sistem OSS dan menjadi bagian dari perizinan berusaha sesuai tingkat risiko kegiatan usaha.",
+    "Status": "AKTIF",
+    "Kategori": "Informasi Dasar",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "FAQ-3",
+    "Pertanyaan": "Apakah semua usaha wajib memiliki NIB?",
+    "Jawaban": "Pelaku usaha wajib memenuhi ketentuan perizinan berusaha yang berlaku. Jenis perizinan dan persyaratannya ditentukan antara lain oleh bidang usaha dan tingkat risiko kegiatan usaha.",
+    "Status": "AKTIF",
+    "Kategori": "Informasi Dasar",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "FAQ-4",
+    "Pertanyaan": "Apakah NIB sama dengan izin usaha?",
+    "Jawaban": "Tidak selalu. Selain NIB, kegiatan usaha tertentu memerlukan Sertifikat Standar, Izin, atau persyaratan lain sesuai tingkat risiko dan ketentuan sektoral.",
+    "Status": "AKTIF",
+    "Kategori": "Informasi Dasar",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "FAQ-5",
+    "Pertanyaan": "Apakah usaha mikro dan kecil dapat mengurus NIB secara online?",
+    "Jawaban": "Ya. Pelaku usaha dapat mengajukan NIB melalui OSS dengan mengisi data sesuai profil dan kegiatan usahanya. Panduan tersedia di https://oss.go.id/id/panduan.",
+    "Status": "AKTIF",
+    "Kategori": "Informasi Dasar",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "FAQ-6",
+    "Pertanyaan": "Apa saja persyaratan untuk mengurus NIB?",
+    "Jawaban": "Persyaratan mengikuti jenis pelaku usaha dan kegiatan yang diajukan. Umumnya pemohon perlu menyiapkan data identitas, alamat usaha, bidang usaha/KBLI, lokasi kegiatan, serta data pendukung yang diminta sistem OSS.",
+    "Status": "AKTIF",
+    "Kategori": "Persyaratan",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "FAQ-7",
+    "Pertanyaan": "Apa itu KBLI dan mengapa penting?",
+    "Jawaban": "KBLI adalah Klasifikasi Baku Lapangan Usaha Indonesia. Kode KBLI digunakan untuk mengidentifikasi kegiatan usaha dan membantu menentukan jenis perizinan serta kewajiban yang harus dipenuhi.",
+    "Status": "AKTIF",
+    "Kategori": "Persyaratan",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "FAQ-8",
+    "Pertanyaan": "Bagaimana cara mengurus perizinan berusaha?",
+    "Jawaban": "Secara umum, tahapannya adalah masuk atau membuat akun OSS, melengkapi data pelaku usaha, memilih KBLI, mengisi data kegiatan usaha, memenuhi persyaratan yang diminta, lalu mengunduh dokumen perizinan yang telah diterbitkan.",
+    "Status": "AKTIF",
+    "Kategori": "Proses Perizinan",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "FAQ-9",
+    "Pertanyaan": "Apakah semua perizinan dapat selesai pada hari yang sama?",
+    "Jawaban": "Tidak selalu. Waktu penyelesaian bergantung pada jenis perizinan, kelengkapan dokumen, kebutuhan verifikasi, dan pemenuhan persyaratan. Acuan waktu pelayanan dapat dilihat pada Standar Pelayanan DPMPTSP atau instansi yang berwenang.",
+    "Status": "AKTIF",
+    "Kategori": "Proses Perizinan",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "FAQ-10",
+    "Pertanyaan": "Apakah pengurusan perizinan harus datang langsung ke kantor DPMPTSP?",
+    "Jawaban": "Sebagian besar proses perizinan berusaha dilakukan melalui OSS secara elektronik. Jika membutuhkan bantuan atau terdapat persyaratan yang memerlukan verifikasi, pemohon dapat menggunakan kanal layanan resmi DPMPTSP Kota Tegal.",
+    "Status": "AKTIF",
+    "Kategori": "Proses Perizinan",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "FAQ-11",
+    "Pertanyaan": "Bagaimana jika saya salah memilih KBLI?",
+    "Jawaban": "Periksa kembali kegiatan usaha yang dimasukkan pada OSS. Jika data sudah tersimpan atau dokumen telah terbit, gunakan prosedur perubahan data atau perizinan yang tersedia dan pastikan kode KBLI sesuai kegiatan usaha sebenarnya.",
+    "Status": "AKTIF",
+    "Kategori": "Proses Perizinan",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "FAQ-12",
+    "Pertanyaan": "Apa yang dimaksud perizinan berusaha berbasis risiko?",
+    "Jawaban": "Perizinan berusaha berbasis risiko adalah pendekatan yang menentukan jenis perizinan dan kewajiban berdasarkan tingkat risiko kegiatan usaha. Tingkat risiko terdiri dari rendah, menengah rendah, menengah tinggi, dan tinggi.",
+    "Status": "AKTIF",
+    "Kategori": "Tingkat Risiko",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "FAQ-13",
+    "Pertanyaan": "Apa perbedaan dokumen perizinan berdasarkan tingkat risiko?",
+    "Jawaban": "Secara umum, risiko rendah memerlukan NIB; menengah rendah memerlukan NIB dan Sertifikat Standar; menengah tinggi memerlukan NIB dan Sertifikat Standar dengan verifikasi; sedangkan risiko tinggi memerlukan NIB dan Izin. Persyaratan dasar dan sektoral tetap dapat berlaku.",
+    "Status": "AKTIF",
+    "Kategori": "Tingkat Risiko",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "FAQ-14",
+    "Pertanyaan": "Apa itu KKPR?",
+    "Jawaban": "KKPR adalah Kesesuaian Kegiatan Pemanfaatan Ruang, yaitu persyaratan terkait kesesuaian lokasi kegiatan usaha dengan ketentuan tata ruang. Kewajiban dan mekanismenya mengikuti kondisi lokasi serta ketentuan yang berlaku.",
+    "Status": "AKTIF",
+    "Kategori": "Persyaratan",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "FAQ-15",
+    "Pertanyaan": "Apakah setiap usaha membutuhkan persetujuan lingkungan?",
+    "Jawaban": "Tidak selalu dengan jenis dokumen yang sama. Kewajiban lingkungan ditentukan berdasarkan jenis, skala, karakteristik, dan dampak kegiatan usaha sesuai ketentuan yang berlaku. Periksa persyaratan pada OSS dan instansi lingkungan yang berwenang.",
+    "Status": "AKTIF",
+    "Kategori": "Persyaratan",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "FAQ-16",
+    "Pertanyaan": "Apakah NIB sudah cukup untuk langsung menjalankan usaha?",
+    "Jawaban": "Belum tentu. Pastikan seluruh kewajiban perizinan untuk kegiatan operasional atau komersial telah dipenuhi. Usaha tertentu memerlukan Sertifikat Standar, Izin, atau persyaratan lainnya.",
+    "Status": "AKTIF",
+    "Kategori": "Proses Perizinan",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "FAQ-17",
+    "Pertanyaan": "Bagaimana jika alamat usaha berubah?",
+    "Jawaban": "Periksa fitur perubahan data pelaku usaha atau proyek pada akun OSS. Siapkan alamat terbaru dan penuhi persyaratan tambahan jika perubahan lokasi berdampak pada tata ruang atau persyaratan lainnya.",
+    "Status": "AKTIF",
+    "Kategori": "Perubahan Data",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "FAQ-18",
+    "Pertanyaan": "Bagaimana jika NIB atau dokumen perizinan hilang?",
+    "Jawaban": "Masuk ke akun OSS yang digunakan saat pengajuan, kemudian periksa data usaha dan bagian dokumen perizinan untuk mengunduh kembali dokumen yang tersedia. Jika terkendala, gunakan kanal bantuan resmi OSS.",
+    "Status": "AKTIF",
+    "Kategori": "Kendala OSS",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "FAQ-19",
+    "Pertanyaan": "Bagaimana jika saya lupa kata sandi atau tidak dapat masuk ke OSS?",
+    "Jawaban": "Gunakan fitur pemulihan akun pada halaman OSS. Pastikan email atau nomor kontak yang terdaftar masih dapat diakses. Jika kendala berlanjut, hubungi layanan bantuan resmi OSS.",
+    "Status": "AKTIF",
+    "Kategori": "Kendala OSS",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "FAQ-20",
+    "Pertanyaan": "Mengapa pengajuan perizinan saya belum selesai atau masih menunggu verifikasi?",
+    "Jawaban": "Penyebabnya dapat berupa data yang belum lengkap, persyaratan yang belum dipenuhi, atau verifikasi instansi berwenang yang belum selesai. Periksa status permohonan dan notifikasi pada akun OSS untuk mengetahui tindak lanjutnya.",
+    "Status": "AKTIF",
+    "Kategori": "Kendala OSS",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "FAQ-21",
+    "Pertanyaan": "Bagaimana jika data NIB tidak sesuai dengan data usaha saya?",
+    "Jawaban": "Periksa data pada akun OSS dan gunakan prosedur perubahan data atau perizinan yang sesuai. Jika perubahan tidak dapat dilakukan melalui sistem, mintalah petunjuk kepada layanan bantuan OSS atau DPMPTSP sesuai kewenangannya.",
+    "Status": "AKTIF",
+    "Kategori": "Perubahan Data",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "FAQ-22",
+    "Pertanyaan": "Di mana saya dapat memperoleh informasi persyaratan perizinan di Kota Tegal?",
+    "Jawaban": "Masyarakat dapat melihat menu Jenis Pelayanan, Standar Pelayanan, dan SOP pada website DPMPTSP Kota Tegal. Untuk jenis izin tertentu, periksa juga persyaratan pada sistem OSS.",
+    "Status": "AKTIF",
+    "Kategori": "Layanan DPMPTSP",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "FAQ-23",
+    "Pertanyaan": "Bagaimana cara mengetahui SOP dan standar waktu pelayanan?",
+    "Jawaban": "Buka menu Standar Pelayanan atau SOP pada website DPMPTSP Kota Tegal. Informasi tersebut menjadi acuan untuk mengetahui persyaratan, prosedur, waktu penyelesaian, biaya atau tarif jika ada, serta produk layanan.",
+    "Status": "AKTIF",
+    "Kategori": "Layanan DPMPTSP",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "FAQ-24",
+    "Pertanyaan": "Apakah DPMPTSP dapat membantu jika saya mengalami kesulitan mengurus perizinan?",
+    "Jawaban": "Pemohon dapat menghubungi atau mendatangi kanal pelayanan resmi DPMPTSP Kota Tegal untuk memperoleh informasi dan bantuan sesuai kewenangan. Siapkan data usaha, jenis layanan, serta keterangan kendala.",
+    "Status": "AKTIF",
+    "Kategori": "Layanan DPMPTSP",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "FAQ-25",
+    "Pertanyaan": "Bagaimana cara menyampaikan pengaduan terkait pelayanan perizinan?",
+    "Jawaban": "Sampaikan pengaduan melalui kanal pengaduan resmi pada menu Hubungi Kami di website DPMPTSP Kota Tegal. Sertakan kronologi, tanggal kejadian, jenis layanan, dan bukti pendukung yang relevan. Jangan mencantumkan kata sandi atau data pribadi yang tidak diperlukan.",
+    "Status": "AKTIF",
+    "Kategori": "Pengaduan",
+    "Tanggal_Pembaruan": ""
+  },
+  {
+    "ID": "FAQ-26",
+    "Pertanyaan": "Apakah pengurusan perizinan berusaha dikenakan biaya?",
+    "Jawaban": "Biaya atau tarif mengikuti ketentuan peraturan perundang-undangan untuk jenis layanan yang bersangkutan. Periksa Standar Pelayanan dan informasi resmi terkait. Hindari pembayaran ke rekening pribadi atau pihak yang tidak berwenang.",
+    "Status": "AKTIF",
+    "Kategori": "Biaya",
+    "Tanggal_Pembaruan": ""
+  }
+]

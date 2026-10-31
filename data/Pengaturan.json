@@ -1,0 +1,57 @@
+[
+  {
+    "Kunci": "ALAMAT",
+    "Nilai": "MPP Kota Tegal, Jl. Kol. Sugiono No. 19 Kota Tegal",
+    "Keterangan": "Verifikasi kembali sebelum publikasi"
+  },
+  {
+    "Kunci": "EMAIL",
+    "Nilai": "dpmptsp.tegalkota@gmail.com",
+    "Keterangan": "Verifikasi kembali sebelum publikasi"
+  },
+  {
+    "Kunci": "TELEPON",
+    "Nilai": "0283 356101",
+    "Keterangan": "Verifikasi kembali sebelum publikasi"
+  },
+  {
+    "Kunci": "URL_POTENSI_INVESTASI",
+    "Nilai": "https://potensi-investasi.vercel.app/",
+    "Keterangan": "Isi URL dashboard peluang/potensi investasi terpisah"
+  },
+  {
+    "Kunci": "LATITUDE",
+    "Nilai": "-68693802.0",
+    "Keterangan": "Koordinat lintang kantor"
+  },
+  {
+    "Kunci": "LONGITUDE",
+    "Nilai": "1091181151.0",
+    "Keterangan": "Koordinat bujur kantor"
+  },
+  {
+    "Kunci": "PENGUMUMAN_AKTIF",
+    "Nilai": "YA",
+    "Keterangan": "YA atau TIDAK"
+  },
+  {
+    "Kunci": "PENGUMUMAN_JUDUL",
+    "Nilai": "HATI-HATI PENIPUAN OSS",
+    "Keterangan": "Judul pengumuman"
+  },
+  {
+    "Kunci": "PENGUMUMAN_ISI",
+    "Nilai": "Hati-Hati Penipuan Mengatasnamakan Lembaga OSS",
+    "Keterangan": "Isi pengumuman"
+  },
+  {
+    "Kunci": "PENGUMUMAN_GAMBAR_URL",
+    "Nilai": "https://drive.google.com/file/d/1peTeqq4GHhF4UH42513yDN-KtAt4zPzw/view?usp=drive_link",
+    "Keterangan": "URL gambar JPG/PNG"
+  },
+  {
+    "Kunci": "PENGUMUMAN_LINK",
+    "Nilai": "https://oss.go.id/id",
+    "Keterangan": "URL informasi lanjutan, jika ada"
+  }
+]
